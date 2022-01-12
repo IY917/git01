@@ -1,7 +1,7 @@
-git仓库初始化，文件提交操作
-git init
-git status
-git add
-git commit -m “文件描述”
-git ls-file
+1、git仓库初始化，文件提交操作
+git init  初始化
+git status  状态
+git add  暂存
+git commit -m “文件描述”  提交
+git ls-file  查看
 
